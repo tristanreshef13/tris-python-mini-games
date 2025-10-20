@@ -186,4 +186,3 @@ while 2 < 5:
 ####################################
 # Future ideas:
 # Add a proper countdown or advanced missions
-
